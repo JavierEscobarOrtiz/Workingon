@@ -10,3 +10,4 @@ session_info==1.0.0
 ipykernel==6.5.1
 gif==3.0.0
 joblib==1.1.0
+xgboost==1.5.1
