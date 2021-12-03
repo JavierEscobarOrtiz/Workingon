@@ -1,0 +1,9 @@
+ipykernel==5.3.4
+matplotlib==3.4.2
+numpy==1.20.1
+pandas==1.2.3
+scipy==1.6.2
+seaborn==0.11.1
+sinfo==0.3.1
+sklearn==0.23.1
+statsmodels==0.12.2
